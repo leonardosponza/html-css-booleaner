@@ -36,9 +36,28 @@ background-size: 500px;
     color: white;
     background-color:royalblue;
 }
-#testo1{
+.backgroundskyblue{
     background-color: skyblue;
 }
-#testo2{
-    background-color: skyblue;
+/* css main */
+#testo3{
+    background-color: yellow;
+}
+#lorem1{
+    color: gray;
+}
+#lorem2{
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    height: 200px;
+    width: 312px;
+}
+#lorem3{
+    background-image: url(../img/graph.jpg);
+    color: white;
+    width: 312px;
+    height: 200px;
+}
+.larghezza{
+    width: 1050px;
 }
