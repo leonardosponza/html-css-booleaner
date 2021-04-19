@@ -1,0 +1,25 @@
+/* inizio css di head */
+.head{
+background-image:url(../img/pattern.png);
+background-color: cornflowerblue;
+background-repeat: repeat-x;
+background-size: 500px;
+}
+#logo{
+   width: 500px;
+   padding-top: 70px;
+
+}
+#font{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60px;
+    margin-top: 30px;
+    margin-bottom: auto;
+}
+#lollo{
+    color:deepskyblue;
+}
+.lollo1{
+    font-size: 20px;
+}
+/* css di header */
